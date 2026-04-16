@@ -204,7 +204,3 @@ This codebase is production-shaped but currently configured for local demo. Befo
 - [ ] Add deployment-specific profile configuration
 
 ---
-
-## Related
-
-- **Frontend:** [JobApp Frontend](../jobapp-frontend/README.md)
